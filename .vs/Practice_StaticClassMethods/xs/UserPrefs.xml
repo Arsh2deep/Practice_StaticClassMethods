@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{C279B47E-DD56-4C15-B76E-3DAD2D3E40D8}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Practice_StaticClassMethods/Program.cs">
+    <Files>
+      <File FileName="Practice_StaticClassMethods/Program.cs" Line="5" Column="6" />
+      <File FileName="Practice_StaticClassMethods/Transaction.cs" Line="21" Column="10" />
+      <File FileName="Practice_StaticClassMethods/BusinessInfo.cs" Line="16" Column="13" />
+      <File FileName="Practice_StaticClassMethods/DailyTransactions.cs" Line="37" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Practice__StaticClassMethods PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

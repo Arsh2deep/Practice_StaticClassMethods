@@ -1,0 +1,15 @@
+/Users/arshsingh/Desktop/Programming 3 Projects./Practice_StaticClassMethods/Practice_StaticClassMethods/bin/Debug/net6.0/Practice_StaticClassMethods
+/Users/arshsingh/Desktop/Programming 3 Projects./Practice_StaticClassMethods/Practice_StaticClassMethods/bin/Debug/net6.0/Practice_StaticClassMethods.deps.json
+/Users/arshsingh/Desktop/Programming 3 Projects./Practice_StaticClassMethods/Practice_StaticClassMethods/bin/Debug/net6.0/Practice_StaticClassMethods.runtimeconfig.json
+/Users/arshsingh/Desktop/Programming 3 Projects./Practice_StaticClassMethods/Practice_StaticClassMethods/bin/Debug/net6.0/Practice_StaticClassMethods.dll
+/Users/arshsingh/Desktop/Programming 3 Projects./Practice_StaticClassMethods/Practice_StaticClassMethods/bin/Debug/net6.0/Practice_StaticClassMethods.pdb
+/Users/arshsingh/Desktop/Programming 3 Projects./Practice_StaticClassMethods/Practice_StaticClassMethods/obj/Debug/net6.0/Practice_StaticClassMethods.csproj.AssemblyReference.cache
+/Users/arshsingh/Desktop/Programming 3 Projects./Practice_StaticClassMethods/Practice_StaticClassMethods/obj/Debug/net6.0/Practice_StaticClassMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arshsingh/Desktop/Programming 3 Projects./Practice_StaticClassMethods/Practice_StaticClassMethods/obj/Debug/net6.0/Practice_StaticClassMethods.AssemblyInfoInputs.cache
+/Users/arshsingh/Desktop/Programming 3 Projects./Practice_StaticClassMethods/Practice_StaticClassMethods/obj/Debug/net6.0/Practice_StaticClassMethods.AssemblyInfo.cs
+/Users/arshsingh/Desktop/Programming 3 Projects./Practice_StaticClassMethods/Practice_StaticClassMethods/obj/Debug/net6.0/Practice_StaticClassMethods.csproj.CoreCompileInputs.cache
+/Users/arshsingh/Desktop/Programming 3 Projects./Practice_StaticClassMethods/Practice_StaticClassMethods/obj/Debug/net6.0/Practice_StaticClassMethods.dll
+/Users/arshsingh/Desktop/Programming 3 Projects./Practice_StaticClassMethods/Practice_StaticClassMethods/obj/Debug/net6.0/refint/Practice_StaticClassMethods.dll
+/Users/arshsingh/Desktop/Programming 3 Projects./Practice_StaticClassMethods/Practice_StaticClassMethods/obj/Debug/net6.0/Practice_StaticClassMethods.pdb
+/Users/arshsingh/Desktop/Programming 3 Projects./Practice_StaticClassMethods/Practice_StaticClassMethods/obj/Debug/net6.0/Practice_StaticClassMethods.genruntimeconfig.cache
+/Users/arshsingh/Desktop/Programming 3 Projects./Practice_StaticClassMethods/Practice_StaticClassMethods/obj/Debug/net6.0/ref/Practice_StaticClassMethods.dll
